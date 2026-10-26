@@ -129,7 +129,7 @@ Version Control · Containerized Environments · Development Workflow
 
 <img height="48" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" />
+<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" />
 
 <br>
 
